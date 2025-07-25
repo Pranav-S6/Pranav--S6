@@ -1,4 +1,4 @@
-# Hi, I'm **Santhosh S**  
+# Hi, I'm **Pranav S**  
 
 🎓 **Final Year Computer Science Student at Madras Institute of Technology, Anna University.**  
 💻 Passionate about **AI, Machine Learning, Web Development, and Software Development.**  
@@ -7,7 +7,7 @@
 🤝 Passionate about teamwork and leadership, fostering collaboration in projects.  
 🏆 Always eager to **learn new technologies & build impactful projects.**  
 <p align="center">
-  <a href="https://drive.google.com/file/d/1r9sPRgCXLeHAn6wlHIb7M2z8kqCvgcJj/view">
+  <a href="https://drive.google.com/drive/u/0/folders/1HjovX7oRWV1T8aXHTj1zybSuVOoH8fHR">
     <img src="https://img.shields.io/badge/%20View%20Resume-28A745?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
@@ -58,21 +58,11 @@
 
 ---
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-12345&show_icons=true&theme=tokyonight" alt="Santhosh's GitHub stats" />
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-12345&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 
 ---
 
 ## 📫 Contact Me    
 
-📧 **Email:** [santhoshsiva2909@gmail.com](mailto:santhoshsiva2909@gmail.com)   
-🔗 **LinkedIn:** [Santhosh S](https://www.linkedin.com/in/santhosh-s-417826263)   
-🏆 **GitHub:** [Santhosh-12345](https://github.com/Santhosh-12345)
+📧 **Email:** [pranavmit2022503556@gmail.com](mailto:pranavmit2022503556@gmail.com)   
+🔗 **LinkedIn:** [Pranav S](https://www.linkedin.com/feed/)   
+🏆 **GitHub:** [Pranav-S6](https://github.com)
