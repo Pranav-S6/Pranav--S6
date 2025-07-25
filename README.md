@@ -54,6 +54,15 @@
 
 
 ---
+## 🧠 Striver SDE Sheet Progress
+
+🚀 I’m actively solving the [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) to strengthen my DSA skills.
+
+- ✅ Completed: **100 / 191 problems**
+- 🔄 Topics Covered: Arrays, Linked Lists, Trees, Recursion, Graphs, BST and more.
+- 🛠️ Languages Used: **C++**, **JAVA**
+
+<img src="https://progress-bar.dev/67/?title=Progress&width=300&color=41B883&suffix=%&scale=180" />
 
 
 ---
